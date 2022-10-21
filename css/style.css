@@ -1,0 +1,173 @@
+
+
+@import'fonts.css';
+:root{
+--r-r:''    
+    
+    
+    
+}
+
+
+
+
+
+
+*{
+margin: 0;    
+  padding: 0;  
+  list-style: none;  
+  text-decoration: none;  
+   box-sizing: border-box; 
+   font-family : var(--r-r) ;
+  }  
+    
+    header{
+  background: url(../img/Livello\ 1.png) no-repeat top / cover;  
+  height: 100vh;
+} 
+
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header nav ul{
+  display: flex;
+align-items: center;
+}  
+
+nav .fon{
+  color: white;
+  padding: 10px 15px;
+  display: block;
+  text-decoration: none;
+}
+
+
+
+h1{
+ color: rgb(255, 255, 255); 
+  
+}  
+header p{
+  color: rgb(255, 255, 255);  
+  
+  }
+.header-text{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 250px;
+  
+  
+  
+}
+
+ .nav-menu {
+  background: #f5f6f7;
+  padding-top: 46px ;
+    padding-bottom:46px; 
+  
+  
+ }
+.section-menu{
+  display: flex;
+  justify-content: space-between;
+  
+  
+  
+  }
+  .nav-menu ul{
+    display: flex;
+    align-items: center;
+  }
+   .nav-menu .fox{
+    font-family: var(--r-bo ) ; 
+    font-size: 20px;  
+    color: #7a7a7a;  
+     display: block; 
+      padding: 0  25px;
+     text-decoration: none; 
+      transform: 0.5s;
+      
+     } 
+    
+    .nav-menu button{
+      border-radius: 10%;
+      background: #aa9b77;
+      
+    }
+    .men-block{
+     background: #f5f6f7; 
+      padding: 23px 21px 21px 21px; 
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 61px;
+    }
+    .men-block img{
+   width: 50%;   
+      
+      
+    }
+    .men-block a {
+      font-size: 16px;
+      color: #424242;
+      text-decoration: none;
+      text-transform: uppercase;
+    }
+    
+  .men-block img{
+    width: 147px; 
+      height: 190px;
+      object-fit: contain;
+     }
+    
+    
+    .box{
+     background: #aa9b77; 
+      padding-top: 90px ;
+     padding-bottom: 180px;  
+      
+    }
+ 
+    .box-text{
+      max-width: 486px;
+      width: 100%;
+      margin: auto;
+    }
+    
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+
+  
+    
